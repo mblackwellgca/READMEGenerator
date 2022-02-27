@@ -1,18 +1,23 @@
 
-  # t
+  # ass
+
+  ![Github license](https://img.shields.io/badge/license-MIT-blueviolet.svg)
 
   ## Description
-  t
+  ass
   
   ## Installation
-  t
+  ass
   
   ## Usage
-  t
+  ass
   
   ## Credits
-  t
+  ass
   
   ## License
-  MIT
+      Licensed under the MIT license.
+      Copyright ©️ MIT. All rights reserved. 
+      
+  https://choosealicense.com/licenses/MIT
   
