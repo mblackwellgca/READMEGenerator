@@ -26,12 +26,12 @@
   ![Demo Screenshot](./assets/images/criteria.png)
 
   ## Credits
-  Christopher Ponzio https://github.com/ChristopherPonzio 
-  https://img.shields.io/badge/license 
-  https://choosealicense.com/licenses 
-  https://stackoverflow.com/ 
-  https://www.w3schools.com/ 
-  https://developer.mozilla.org/en-US/
+  * Christopher Ponzio https://github.com/ChristopherPonzio 
+  * https://img.shields.io/badge/license 
+  * https://choosealicense.com/licenses 
+  * https://stackoverflow.com/ 
+  * https://www.w3schools.com/ 
+  * https://developer.mozilla.org/en-US/
   
   ## License
       Licensed under the MIT license.
