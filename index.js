@@ -29,7 +29,7 @@ const questions = [
         {
         type: 'input',
         name: 'screenshot',
-        message: 'Details of screenshot',
+        message: 'Title of screenshot',
         },
         {
         type: 'input',
