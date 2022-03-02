@@ -20,8 +20,8 @@
   To run this project, node.js, NPM, and inquirer.js are needed
   
   ## Usage
-  Live Link: https://mblackwellgca.github.io/READMEGenerator/ 
-  Repo: https://github.com/mblackwellgca/READMEGenerator
+  * Live Link: https://mblackwellgca.github.io/READMEGenerator/ 
+  * Repo: https://github.com/mblackwellgca/READMEGenerator
 
   ![Demo Screenshot](./assets/images/criteria.png)
 
