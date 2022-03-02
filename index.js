@@ -28,6 +28,11 @@ const questions = [
         },
         {
         type: 'input',
+        name: 'screenshot',
+        message: 'Details of screenshot',
+        },
+        {
+        type: 'input',
         name: 'credits',
         message: 'Project collaborators',
         },

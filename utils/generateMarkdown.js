@@ -47,12 +47,13 @@ function generateMarkdown(data) {
   
   ## Usage
   ${data.usage}
-  
+  ![Demo Screenshot](./assets/images/${data.screenshot})
+
   ## Credits
   ${data.credits}
   
   ${renderLicenseSection(data.license)}
-  ${renderLicenseLink(data.license)}
+  ${renderLicenseLink(data.license.toLowerCase())}
   
 `;
 }
